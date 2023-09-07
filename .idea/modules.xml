@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChallengeClasses/ChallengeClasses.iml" filepath="$PROJECT_DIR$/ChallengeClasses/ChallengeClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeIfElse/ChallengeIfElse.iml" filepath="$PROJECT_DIR$/ChallengeIfElse/ChallengeIfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeMehtodOverloadTime/ChallengeMehtodOverloadTime.iml" filepath="$PROJECT_DIR$/ChallengeMehtodOverloadTime/ChallengeMehtodOverloadTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeMethodOverloading/ChallengeMethodOverloading.iml" filepath="$PROJECT_DIR$/ChallengeMethodOverloading/ChallengeMethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeMethods/ChallengeMethods.iml" filepath="$PROJECT_DIR$/ChallengeMethods/ChallengeMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeScanner/ChallengeScanner.iml" filepath="$PROJECT_DIR$/ChallengeScanner/ChallengeScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeSwitch/ChallengeSwitch.iml" filepath="$PROJECT_DIR$/ChallengeSwitch/ChallengeSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeSwitchExpression/ChallengeSwitchExpression.iml" filepath="$PROJECT_DIR$/ChallengeSwitchExpression/ChallengeSwitchExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeTernaryOperator/ChallengeTernaryOperator.iml" filepath="$PROJECT_DIR$/ChallengeTernaryOperator/ChallengeTernaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeTryCatch/ChallengeTryCatch.iml" filepath="$PROJECT_DIR$/ChallengeTryCatch/ChallengeTryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeWhileLoop/ChallengeWhileLoop.iml" filepath="$PROJECT_DIR$/ChallengeWhileLoop/ChallengeWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesIntroduction/ClassesIntroduction.iml" filepath="$PROJECT_DIR$/ClassesIntroduction/ClassesIntroduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniChallengeIf/MiniChallengeIf.iml" filepath="$PROJECT_DIR$/MiniChallengeIf/MiniChallengeIf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScannerIntro/ScannerIntro.iml" filepath="$PROJECT_DIR$/ScannerIntro/ScannerIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TernaryOperatorTest/TernaryOperatorTest.iml" filepath="$PROJECT_DIR$/TernaryOperatorTest/TernaryOperatorTest.iml" />
+    </modules>
+  </component>
+</project>
